@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse - Real-Time API Monitoring & Performance Analytics",
+  "description": "Enterprise-grade real-time API monitoring dashboard tracking availability, latency, error rate, and uptime with Go worker polling, Redis caching metrics, and instant incident alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
